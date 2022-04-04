@@ -1,0 +1,4 @@
+EMPRESA(cnpj,inscricao_estadual,razao_social)
+DEPARTAMENTO(numero,nome,cnpj)
+FUNCIONARIO(matricula,nome,PIS,endereco,salario,sexo,data_nascimento)
+PROJETO(Numero,descrição,localizacao)

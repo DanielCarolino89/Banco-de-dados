@@ -1,0 +1,3 @@
+CLIENTE(cliID,Nome,Cpf)
+TAXI(Placa,Marca,Modelo,AnoFab)
+CLIENTE_TAXI(ID_Corrida,cliiID,Placa,Data_Pedido,placa,valor)
